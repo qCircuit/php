@@ -6,6 +6,10 @@
     </head>
     <body>
         <?php 
+            $typeString = "ser o no ser";
+            $typeInt = 20;
+            $typeDecimal = 32.8;
+            $typeBool = true;
         ?>
 
     </body>
